@@ -2,6 +2,7 @@ practicas-Sistemas-Operativos
 =============================
 
 Conjunto de programas del modulo 2 de las practicas de Sistemas Operativos de la universidad de granada. A continuación mostramos los ejercicios resueltos:
+
 -sesion1: ejercicio 2.
 
 -sesion2: ejercicios 2,3
